@@ -1,1 +1,1 @@
-help
+To be completely honest, this is all just a direct upload of the project i jumbled together from my PC. It "probably" works if downloaded, but seeing as the main mod is already on steam, I haven't tested it. should I lose the version I currently have, then I'll just get this one working as a sort of backup.
