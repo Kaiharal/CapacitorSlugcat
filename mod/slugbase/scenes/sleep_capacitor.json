@@ -1,0 +1,14 @@
+
+{
+	"id": "sleep_capacitor",
+	"scene_folder": "scenes/sleep_capacitor_scenes",
+	"images": [
+		{"name": "BG1", "pos": [750, 100], "depth": 5.5, "shader": "Basic"},
+		{"name": "background_2", "pos": [498, -38], "depth": 4.8, "shader": "Basic"},
+		{"name": "background_1", "pos": [498, -38], "depth": 4, "shader": "Basic"},
+		{"name": "capacitor_sleep", "pos": [750, 100], "depth": 3, "shader": "Basic"},
+		{"name": "FG1", "pos": [750, 100], "depth": 1.8, "shader": "Basic"}
+	],
+	"idle_depths": [2.9],
+	"sleep scene_depth": 3.0
+}

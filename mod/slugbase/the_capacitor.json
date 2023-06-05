@@ -1,0 +1,26 @@
+{
+	"id": "capacitor",
+	"name": "The Capacitor",
+	"description": "Descended from purposed organisms,<LINE> the capacitor seeks to fulfill its purpose... <LINE> whatever that is.",
+	"features": {
+		"auto_grab_batflies": false,
+		"diet": {
+			"base": "Gourmand",
+			"overrides": {
+				"Slugcat": 0
+			}
+		},
+		"karma": 2,
+		"guide_overseer": 5,
+		"food_min": 8,
+		"food_max": 10,
+		"world_state": [ "Spear" ],
+		"start_room": "SI_D05",
+		"capacitor/output_mode": 0.5,
+		"capacitor/output_jump": 10,
+
+		"select_menu_scene": "Slugcat_capacitor",
+		"select_menu_scene_ascended": "ghost_capacitor",
+		"sleep_scene": "sleep_capacitor"
+	}
+}

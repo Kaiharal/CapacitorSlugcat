@@ -1,0 +1,9 @@
+﻿{
+	"id": "kylira.capacitor",
+	"name": "The Capacitor",
+	"version": "0.1.0",
+	"authors": "Kylira",
+	"description": "A Custom slugcat designed and created by Kylira!",
+	"requirements": [ "slime-cubed.slugbase", "improved-input-config", "dressmyslugcat", "moreslugcats" ],
+	"requirements_names": [ "SlugBase", "Improved Input", "Dress My Slugcat", "More Slugcats Expansion" ]
+}
