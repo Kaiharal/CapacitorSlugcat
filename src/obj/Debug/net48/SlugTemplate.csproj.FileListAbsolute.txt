@@ -1,0 +1,9 @@
+C:\Users\burne\Source\Repos\temporaryslug\src\bin\Debug\net48\SlugTemplate.dll
+C:\Users\burne\Source\Repos\temporaryslug\src\bin\Debug\net48\SlugTemplate.pdb
+C:\Users\burne\Source\Repos\temporaryslug\src\obj\Debug\net48\SlugTemplate.csproj.AssemblyReference.cache
+C:\Users\burne\Source\Repos\temporaryslug\src\obj\Debug\net48\SlugTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burne\Source\Repos\temporaryslug\src\obj\Debug\net48\SlugTemplate.AssemblyInfoInputs.cache
+C:\Users\burne\Source\Repos\temporaryslug\src\obj\Debug\net48\SlugTemplate.AssemblyInfo.cs
+C:\Users\burne\Source\Repos\temporaryslug\src\obj\Debug\net48\SlugTemplate.csproj.CoreCompileInputs.cache
+C:\Users\burne\Source\Repos\temporaryslug\src\obj\Debug\net48\SlugTemplate.dll
+C:\Users\burne\Source\Repos\temporaryslug\src\obj\Debug\net48\SlugTemplate.pdb
